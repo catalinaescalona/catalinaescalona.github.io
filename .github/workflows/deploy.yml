@@ -1,27 +1,28 @@
-# .github/workflows/deploy.yml
-:contentReference[oaicite:3]{index=3}
+name: Build & Deploy Astro site to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 permissions:
   contents: read
   pages: write
-  :contentReference[oaicite:4]{index=4}
+  id-token: write
 
 concurrency:
-  group: "pages"
-  :contentReference[oaicite:5]{index=5}
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   build:
-    :contentReference[oaicite:6]{index=6}
+    runs-on: ubuntu-latest
     environment:
-      :contentReference[oaicite:7]{index=7}
+      name: github-pages
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -41,14 +42,12 @@ jobs:
 
   deploy:
     needs: build
-    :contentReference[oaicite:8]{index=8}
-    permissions:
-      pages: write
-      :contentReference[oaicite:9]{index=9}
-
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
 
     steps:
       - name: Deploy to GitHub Pages
