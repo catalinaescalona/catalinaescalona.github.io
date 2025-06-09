@@ -1,24 +1,25 @@
-name: Deploy Astro site to GitHub Pages
+# .github/workflows/deploy.yml
+:contentReference[oaicite:3]{index=3}
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 permissions:
   contents: read
   pages: write
-  id-token: write
+  :contentReference[oaicite:4]{index=4}
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  :contentReference[oaicite:5]{index=5}
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    :contentReference[oaicite:6]{index=6}
     environment:
-      name: github-pages   # ✅ This is the missing key!
+      :contentReference[oaicite:7]{index=7}
+
     steps:
       - uses: actions/checkout@v3
 
@@ -33,17 +34,17 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Upload GitHub Pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    :contentReference[oaicite:8]{index=8}
     permissions:
       pages: write
-      id-token: write
+      :contentReference[oaicite:9]{index=9}
 
     environment:
       name: github-pages
