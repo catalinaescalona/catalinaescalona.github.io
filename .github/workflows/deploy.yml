@@ -17,6 +17,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages   # ✅ This is the missing key!
     steps:
       - uses: actions/checkout@v3
 
