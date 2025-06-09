@@ -7,7 +7,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://catalinaescalona.github.io',
+  site: 'https://catesc.dev/',
   base: "/", // Ensure this is correct if your site is served at root
   integrations: [
     sitemap({
