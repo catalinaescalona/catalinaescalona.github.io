@@ -1,0 +1,10 @@
+# Build & dependency folders
+node_modules/
+dist/
+.astro/
+
+# System files
+.DS_Store
+
+# Logs
+npm-debug.log*
