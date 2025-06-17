@@ -9,7 +9,7 @@ Before diving into computer science, I explored a wide range of fields -- from G
 
 In 2021, I decided to pivot into the world of tech and IT and began studying computer science. Currently I'm working as an Application Manager for Robotic Process Automation at Raiffeisen Bank International, one of the largest banking groups in Central and Eastern Europe. In my team, we focus on Intelligent Automation, Low Code, and Agentic AI. 
 
-Influenced by my varied background, I'm especially interested in the intersection of technology and creativity, with a goal of bridging the arts, humanities, and computation. Whether it's through creative coding, writing, or building thoughtful systems, I'm drawn to interdisciplinary work that blends logic with imagination. 
+I'm especially interested in the intersection of technology and creativity, with a goal of bridging the arts, humanities, and computation. Whether it's through creative coding, writing, or building thoughtful systems, I'm drawn to interdisciplinary work that blends logic with imagination.
 
 <!-- AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
