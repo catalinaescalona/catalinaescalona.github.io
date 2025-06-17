@@ -8,7 +8,7 @@ draft: false
 tags:
   - cspb
 description:
-  Status update for Week 2 on my journey to learn creative coding.
+  Brainstorming initial project ideas to learn creative coding
 ---
 
 <i>Status update for Week 2 on my journey to learn creative coding, as part of the University of Colorado Boulder's "Professional Development in Computer Science" course.</i>

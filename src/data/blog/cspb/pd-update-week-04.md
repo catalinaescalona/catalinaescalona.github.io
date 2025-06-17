@@ -8,7 +8,7 @@ draft: false
 tags:
   - cspb
 description:
-  Status update for Week 4 on my journey to learn creative coding.
+  Setting up Astro and getting started with the Coding Train
 ---
 
 <i>Status update for Week 4 on my journey to learn creative coding, as part of the University of Colorado Boulder's "Professional Development in Computer Science" course.</i>

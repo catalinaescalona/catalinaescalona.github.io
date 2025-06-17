@@ -8,7 +8,7 @@ draft: false
 tags:
   - cspb
 description:
-  Status update for Week 3 on my journey to learn creative coding.
+  Deciding on p5.js as my creative coding tool
 ---
 
 <i>Status update for Week 3 on my journey to learn creative coding, as part of the University of Colorado Boulder's "Professional Development in Computer Science" course.</i>
