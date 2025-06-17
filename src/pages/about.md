@@ -3,7 +3,13 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Work in progress! Come back later :)
+Hey there! I'm Catalina, a lifelong learner currently based in Vienna, Austria.
+
+Before diving into computer science, I explored a wide range of fields -- from German literature and art history to fine arts -- studying in New York City, Boulder, Berlin, and Vienna. I've been both a Fulbright and DAAD scholar, experiences that greatly deepened my academic work and impacted the trajectory of my life. Professionally, I spent several years in the cultural and educational sectors, with roles in art collections, cultural centers, journals, and teaching German, Spanish, and English language and culture. 
+
+In 2021, I decided to pivot into the world of tech and IT and began studying computer science. Currently I'm working as an Application Manager for Robotic Process Automation at Raiffeisen Bank International, one of the largest banking groups in Central and Eastern Europe. In my team, we focus on Intelligent Automation, Low Code, and Agentic AI. 
+
+Influenced by my varied background, I'm especially interested in the intersection of technology and creativity, with a goal of bridging the arts, humanities, and computation. Whether it's through creative coding, writing, or building thoughtful systems, I'm drawn to interdisciplinary work that blends logic with imagination. 
 
 <!-- AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
