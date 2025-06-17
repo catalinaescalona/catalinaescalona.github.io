@@ -19,7 +19,7 @@ For the scope of this project, I decided to focus on p5.js as my creative coding
 
 ## What do I plan to do this week?
 
-For the networking part, I want to reach out to two creative coders via email to ask them about how they got started, what tools they use, what projects they are currently working on, and if they have any recommendations for resources / other artists to look at / etc. For the practical coding part, I plan to get started with the Coding Train tutorial and finish setting up my GitHub pages with Astro, if possible.
+For the practical coding part, I plan to get started with the Coding Train tutorial and finish setting up my GitHub pages with Astro. For the networking part, I want to reach out to two creative coders via email to ask them about how they got started, what tools they use, what projects they are currently working on, and if they have any recommendations for resources / other artists to look at / etc. 
 
 ## Any impediments in my way?
 
@@ -27,4 +27,4 @@ Time management! Since I'm working full-time and taking two other CSPB classes s
 
 ## Reflection on the Process?
 
-Since I would ideally like to be more consistent with the topic of creative coding, instead of only working on it over the weekend, maybe I will try to invest 30-60 minutes/day instead. 
+Since I would ideally like to be more consistent with the topic of creative coding, instead of only working on it over the weekend, maybe I can try to invest 30-60 minutes/day instead. 

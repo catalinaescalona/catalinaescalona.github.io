@@ -25,7 +25,7 @@ As part of the "networking" portion of this course, Dr. Guinn suggested I reach 
 
 I am my own biggest obstacle, because I want to learn it all! I'm afraid that I will hop from one technology to the other and barely scratch the surface with any technology, instead of going more in depth and learning the full range that one technology has to offer. At the same time, I'm worried about writing a project proposal and feeling locked into something, lacking the freedom to explore these different technologies and see where my creativity takes me. 
 
-I'm also very excited about possibly interviewing creative coders / artists, yet worried that I might focus too much on this part and not get any creative coding done myself. Not to mention the impediment of this class being only 3-5 hours / week, which seems like very little for a topic I'm passionate about. And of course, there are the usual impediments of working full-time and taking two other CSPB classes simultaneously. ;)
+I'm also very excited about possibly interviewing creative coders / artists, yet worried that I might focus too much on this part and not get any creative coding done myself. Not to mention the impediment of this class being only 3-5 hours/week, which seems like very little for a topic I'm passionate about. And of course, there are the usual impediments of working full-time and taking two other CSPB classes simultaneously.
 
 ## Reflection on the Process?
 
