@@ -5,7 +5,7 @@ title: "About"
 
 Hey there! I'm Catalina, a lifelong learner currently based in Vienna, Austria.
 
-Before diving into computer science, I explored a wide range of fields -- from German literature and art history to fine arts -- studying in New York City, Boulder, Berlin, and Vienna. I've been both a Fulbright and DAAD scholar, experiences that greatly deepened my academic work and impacted the trajectory of my life. Professionally, I spent several years in the cultural and educational sectors, with roles in art collections, cultural centers, journals, and teaching German, Spanish, and English language and culture. 
+Before diving into computer science, I explored a wide range of fields -- from German literature, philosophy, and art history to fine arts -- studying in New York City, Boulder, Berlin, and Vienna. I've been both a Fulbright and DAAD scholar, experiences that greatly deepened my academic work and impacted the trajectory of my life. Professionally, I spent several years in the cultural and educational sectors, with roles in art collections, cultural centers, journals, and teaching German, Spanish, and English language and culture. 
 
 In 2021, I decided to pivot into the world of tech and IT and began studying computer science. Currently I'm working as an Application Manager for Robotic Process Automation at Raiffeisen Bank International, one of the largest banking groups in Central and Eastern Europe. In my team, we focus on Intelligent Automation, Low Code, and Agentic AI. 
 
