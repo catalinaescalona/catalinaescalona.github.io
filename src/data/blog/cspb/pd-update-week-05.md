@@ -1,9 +1,9 @@
 ---
 author: Catalina Escalona
-pubDatetime: 2025-06-20T18:00:00Z
+pubDatetime: 2025-06-19T18:00:00Z
 title: Professional Development in Computer Science - Week 5 of 13
 slug: pd-update-week-05
-featured: true
+featured: false
 draft: false
 tags:
   - cspb
