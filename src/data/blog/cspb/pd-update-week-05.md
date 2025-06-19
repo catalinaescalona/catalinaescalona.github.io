@@ -25,6 +25,6 @@ I plan to finish “Chapter 2” of the Coding Train tutorial, possibly start �
 
 Time! I have an exam coming up next week in one CSPB class and a Lab due in another, so I will need to spend a significant portion of my time on those classes.
 
-## Reflection on the Process?
+## Reflection on the process?
 
 I think I need to regularly review my project proposal, to remember what tangible outcomes I want to have by the end of the semester.

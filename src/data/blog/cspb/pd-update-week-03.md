@@ -25,6 +25,6 @@ For the practical coding part, I plan to get started with the Coding Train tutor
 
 Time management! Since I'm working full-time and taking two other CSPB classes simultaneously, I find that I can only really dedicate the 3-5 hours/week for this course on the weekends. Which is ok! But I prefer to keep some kind of momentum with the topic, instead of trying to get back into it after several days away.
 
-## Reflection on the Process?
+## Reflection on the process?
 
 Since I would ideally like to be more consistent with the topic of creative coding, instead of only working on it over the weekend, maybe I can try to invest 30-60 minutes/day instead. 

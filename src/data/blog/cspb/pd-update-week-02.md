@@ -27,6 +27,6 @@ I am my own biggest obstacle, because I want to learn it all! I'm afraid that I 
 
 I'm also very excited about possibly interviewing creative coders / artists, yet worried that I might focus too much on this part and not get any creative coding done myself. Not to mention the impediment of this class being only 3-5 hours/week, which seems like very little for a topic I'm passionate about. And of course, there are the usual impediments of working full-time and taking two other CSPB classes simultaneously.
 
-## Reflection on the Process?
+## Reflection on the process?
 
 I think I need a "curriculum", which is why I wanted to look for some concrete tutorials to guide me. Additionally, I might be overthinking and over-researching, when I should really just start coding. There are so many things I want to learn and try, but really, I should just write it all down in a list so I don't forget, and get started already with the first thing on that list.

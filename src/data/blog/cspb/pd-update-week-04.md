@@ -25,6 +25,6 @@ I plan to continue with “Chapter 2” of the Coding Train video tutorials and 
 
 As usual, time management. This week has been especially hectic because of 2 upcoming exams in my other CSPB courses.
 
-## Reflection on the Process?
+## Reflection on the process?
 
 It seems I need to factor in more time than I would initially think into my weekly planning for this course. For example, this past week, I thought implementing the Astro template would take me only 30 minutes. But it ended up taking me 2 hours because I encountered some issues and needed to do some digging online to solve the problem. It got solved! But of course, it took more time than planned. To the extent that it's possible, I need to plan for the unplanned / unforseeable obstacles that could arise.
