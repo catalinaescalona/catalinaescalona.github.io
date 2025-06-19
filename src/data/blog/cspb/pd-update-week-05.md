@@ -15,7 +15,7 @@ description:
 
 ## What did I do last week?
 
-I worked on my personal website, writing my About page and a short intro to the blog. I also edited the formatting of the blog post / status updates. Regarding creative coding, I went through half of the Coding Train “Chapter 2” tutorial videos. As for the networking part, I wrote a draft of an email to a creative coder, but I haven’t sent it yet.
+I worked on my personal website, writing my About page and a short intro to the blog. I also edited the formatting of the blog post / status updates. Regarding creative coding, I went through half of the Coding Train “Chapter 2” tutorial videos. As for the networking part, I wrote a draft of an email to a creative coder, but I haven’t sent it yet. 
 
 ## What do I plan to do this week?
 
