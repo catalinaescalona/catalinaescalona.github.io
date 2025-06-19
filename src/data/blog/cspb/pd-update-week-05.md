@@ -8,7 +8,7 @@ draft: false
 tags:
   - cspb
 description:
-  Getting into the Coding Train tutorials
+  Getting into the Coding Train tutorial
 ---
 
 <i>Status update for Week 5 on my journey to learn creative coding, as part of the University of Colorado Boulder's "Professional Development in Computer Science" course.</i>
