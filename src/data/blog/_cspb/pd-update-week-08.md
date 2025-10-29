@@ -4,7 +4,7 @@ pubDatetime: 2025-07-10T18:00:00Z
 title: Professional Development in Computer Science - Week 8 of 13
 slug: pd-update-week-08
 featured: false
-draft: false
+draft: true
 tags:
   - cspb
 description:

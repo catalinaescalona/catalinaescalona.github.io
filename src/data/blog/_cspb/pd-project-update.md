@@ -4,7 +4,7 @@ pubDatetime: 2025-07-03T18:00:00Z
 title: Professional Development in Computer Science - Project Update - Week 7 of 13
 slug: pd-project-update
 featured: false
-draft: false
+draft: true
 tags:
   - cspb
 description:

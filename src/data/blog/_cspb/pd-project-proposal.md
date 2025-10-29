@@ -4,7 +4,7 @@ pubDatetime: 2025-06-05T19:00:00Z
 title: Professional Development in Computer Science - Project Proposal
 slug: pd-project-proposal
 featured: false
-draft: false
+draft: true
 tags:
   - cspb
 description:

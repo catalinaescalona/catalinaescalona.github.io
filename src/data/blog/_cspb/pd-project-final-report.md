@@ -4,7 +4,7 @@ pubDatetime: 2025-08-14T18:00:00Z
 title: Professional Development in Computer Science - Final Project Report - Week 13 of 13
 slug: pd-project-final-report
 featured: false
-draft: false
+draft: true
 tags:
   - cspb
 description:

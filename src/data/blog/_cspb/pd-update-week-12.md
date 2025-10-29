@@ -4,7 +4,7 @@ pubDatetime: 2025-08-07T18:00:00Z
 title: Professional Development in Computer Science - Week 12 of 13
 slug: pd-update-week-12
 featured: false
-draft: false
+draft: true
 tags:
   - cspb
 description:

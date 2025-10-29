@@ -4,7 +4,7 @@ pubDatetime: 2025-06-26T18:00:00Z
 title: Professional Development in Computer Science - Week 6 of 13
 slug: pd-update-week-06
 featured: false
-draft: false
+draft: true
 tags:
   - cspb
 description:
